@@ -1,8 +1,2 @@
 # Windroid-
-محاكي يعتمد علي تشغيل العاب الكمبيوتر علي الهاتف
-
-متطلبات معالجات ميديا تيك G85-T90
-متطلبات معالجات سناب دراجون 670-680
-
-رام اقصي شي 4
-اندرويد لا يقل عن 10
+The Windroid emulator is designed to run computer games completely on the phone Minimum requirements for running games on MediaTek Helio G85 processors Ram 4 The highest requirements for running games on MediaTek Helio G95 processors RAM 4 or 6 Minimum requirements for running games on Snapdragon 670 RAM 4 processors The highest requirements for running games on Snapdragon processors 680 RAM 4 or 6
